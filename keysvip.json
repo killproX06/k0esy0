@@ -1,1 +1,8 @@
-
+{
+  "valid_keys": [
+    "admin",
+    "vip",
+    "vvip",
+    "s"
+  ]
+}
