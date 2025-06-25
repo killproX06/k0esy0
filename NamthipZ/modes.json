@@ -1,1 +1,14 @@
-
+{
+  "modes": [
+    {
+      "name": "โหมดแรก warz_patch.exe",
+      "url": "https://raw.githubusercontent.com/2439CH/dino/main/ICrazyZ/1/warz_patch.exe",
+      "filename": "warz_patch.exe"
+    },
+    {
+      "name": "โหมดสอง MiniA.exe",
+      "url": "https://raw.githubusercontent.com/2439CH/dino/main/ICrazyZ/2/MiniA.exe",
+      "filename": "MiniA.exe"
+    }
+  ]
+}
