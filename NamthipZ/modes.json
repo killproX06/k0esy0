@@ -1,14 +1,19 @@
 {
   "modes": [
     {
-      "name": "โหมดแรก warz_patch.exe",
-      "url": "https://raw.githubusercontent.com/2439CH/dino/main/ICrazyZ/1/warz_patch.exe",
-      "filename": "warz_patch.exe"
+      "name": "ลูกเบิ้ล 2 รีแม็กไว",
+      "url": "https://raw.githubusercontent.com/killproX06/k0esy0/main/NamthipZ/2/ExEWarZ.exe",
+      "filename": "ExEWarZ.exe"
     },
     {
-      "name": "โหมดสอง MiniA.exe",
-      "url": "https://raw.githubusercontent.com/2439CH/dino/main/ICrazyZ/2/MiniA.exe",
-      "filename": "MiniA.exe"
+      "name": "ลูกเบิ้ล 3 รีแม็กไว",
+      "url": "https://raw.githubusercontent.com/killproX06/k0esy0/main/NamthipZ/3/ExEWarZ.exe",
+      "filename": "ExEWarZ.exe"
+    },
+    {
+      "name": "ลูกเบิ้ล 4 รีแม็กไว",
+      "url": "https://raw.githubusercontent.com/killproX06/k0esy0/main/NamthipZ/4/ExEWarZ.exe",
+      "filename": "ExEWarZ.exe"
     }
   ]
 }
